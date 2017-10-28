@@ -2,7 +2,7 @@
 void main()
 {
 int i=0,n;
-printf("Enter number in decimal");
+printf("Enter number in decimal point");
 scanf("%d",&n);
 while(!(n&1))
 {
