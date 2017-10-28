@@ -5,7 +5,7 @@ void main()
 int a[10][10],i,n,j,big,sum=0,c;
 printf("Enter the order of matrix");
 scanf("%d",&n);
-printf("Enter the elements of array");
+printf("Enter the element of array");
 for(i=0;i<n;i++)
 {
 for(j=0;j<n;j++)
